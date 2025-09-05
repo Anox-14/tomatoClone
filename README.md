@@ -6,7 +6,7 @@
 A Food Delivery UI clone built with **React.js**, inspired by popular food delivery apps.  
 > ⚠️ *Note: This website is best viewed on a laptop. Mobile responsiveness is not yet supported.*
 
-## **Live Demo:** [click here View Tomato Clone]([https://your-live-demo-url.com](https://gleeful-quokka-0cd8bc.netlify.app/))
+## **Live Demo:** [click here View Tomato Clone](https://gleeful-quokka-0cd8bc.netlify.app/)
 
 
 ## 🛠️ Technologies Used
